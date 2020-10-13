@@ -39,14 +39,9 @@ https://www.youtube.com/watch?v=FVjKD2lwePE
 
 ### Credits:
 
-Thanks for [Apple](https://www.apple.com/ "Apple") For MacOs
-
-Thanks for [Acidantera](https://github.com/acidanthera "Acidantera") for OpenCore
-
-Thanks for [Dortania](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania") for the Guide
-
-Thanks For [RehabMan](https://github.com/RehabMan "RehabMan") For Kexts
-
-Thanks for [AMD-OSX](https://forum.amd-osx.com/index.php "AMD-OSX") Community 
-
-Thanks for [trulyspinach](https://github.com/trulyspinach "trulyspinach") for his Kexts
+- Thanks for [Apple](https://www.apple.com/ "Apple") For MacOs
+- Thanks for [Acidantera](https://github.com/acidanthera "Acidantera") for OpenCore
+- Thanks for [Dortania](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania") for the Guide
+- Thanks For [RehabMan](https://github.com/RehabMan "RehabMan") For Kexts
+- Thanks for [AMD-OSX](https://forum.amd-osx.com/index.php "AMD-OSX") Community 
+- Thanks for [trulyspinach](https://github.com/trulyspinach "trulyspinach") for his Kexts
