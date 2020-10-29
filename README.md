@@ -14,7 +14,7 @@ If you have the Exact same Hardware configuration as like me you can use this EF
  
 - ***32 GB 3200 MHz DDR4 RAM***
  
-- ***Gigabyte X570 Auros Elite (Non-WiFi) MotherBoard***
+- ***Gigabyte X570 Auros Elite (Non-WiFi) MotherBoard with F21 BIOS***
  
 - ***Sapphire Radeon RX 5700 XT***
  
