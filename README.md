@@ -20,12 +20,6 @@ If you have the Exact same Hardware configuration as like me you can use this EF
  
 - ***Samsung 970 Evo NVMe SSD Storage***
 
- 
- # Donate Me!!!
- 
-Consider Donating this will tremendously helpful for me
-https://paypal.me/SanjayRavindran?locale.x=en_GB
-
 # Youtube Link
 
 You can see the machine in youtube running MacOS catalina 10.15.6 with OpenCore v0.6.0. 
